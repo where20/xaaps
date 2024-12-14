@@ -17,8 +17,8 @@ const imageLoadStatus = ref({});
 const getProxyImageUrl = (url) => {
   if (!url) return placeHolderImage;
   // return `/api/image-proxy?url=${encodeURIComponent(url)}`;
-  // 修改返回图片地址
-  return `${encodeURIComponent(url)}`;
+  // 图片代理地址问题
+  return url;
 };
 
 // 处理图片加载完成
