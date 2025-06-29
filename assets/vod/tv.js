@@ -2,276 +2,296 @@
 export const ysSources = [
   {
     name: "CCTV-1综合",
-    url: "https://tv.aipan.me/stream/CCTV1.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/608807420.m3u8",
   },
   {
     name: "CCTV-2经济",
-    url: "https://tv.aipan.me/stream/CCTV2.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/631780532.m3u8",
   },
   {
     name: "CCTV-3综艺",
-    url: "https://tv.aipan.me/stream/CCTV3.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/624878271.m3u8",
   },
   {
     name: "CCTV-4中文国际",
-    url: "https://tv.aipan.me/stream/CCTV4.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/631780421.m3u8",
   },
   {
     name: "CCTV-5体育",
-    url: "https://tv.aipan.me/stream/CCTV5.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/641886683.m3u8",
   },
   {
     name: "CCTV-5+体育赛事",
-    url: "https://tv.aipan.me/stream/CCTV5P.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/641886773.m3u8",
+  },
+  {
+    name: "CCTV-6电影",
+    url: "https://giptv.cpolar.cn/mgtv/624878396.m3u8",
   },
   {
     name: "CCTV-7军事农业",
-    url: "https://tv.aipan.me/stream/CCTV7.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/673168121.m3u8",
+  },
+  {
+    name: "CCTV-8电视剧",
+    url: "https://giptv.cpolar.cn/mgtv/624878356.m3u8",
   },
   {
     name: "CCTV-9记录",
-    url: "https://tv.aipan.me/stream/CCTV9.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/673168140.m3u8",
   },
   {
     name: "CCTV-10科教",
-    url: "https://tv.aipan.me/stream/CCTV10.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/624878405.m3u8",
   },
   {
     name: "CCTV-11戏曲",
-    url: "https://tv.aipan.me/stream/CCTV11.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/667987558.m3u8",
   },
   {
     name: "CCTV-12社会与法",
-    url: "https://tv.aipan.me/stream/CCTV12.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/673168185.m3u8",
   },
   {
     name: "CCTV-13新闻",
-    url: "https://tv.aipan.me/stream/CCTV13.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/608807423.m3u8",
   },
   {
     name: "CCTV-14少儿",
-    url: "https://tv.aipan.me/stream/CCTV14.m3u8",
+    url: "https://giptv.cpolar.cn/mgtv/624878440.m3u8",
   },
   {
-    name: "CCTV-16奥运频道",
-    url: "https://tv.aipan.me/stream/CCTV16.m3u8",
+    name: "CCTV15音乐",
+    url: "https://giptv.cpolar.cn/mgtv/673168223.m3u8",
+  },
+  {
+    name: "CCTV17农业农村",
+    url: "https://giptv.cpolar.cn/mgtv/673168256.m3u8",
   },
 ];
 
 export const weishiSources = [
   {
     name: "浙江卫视",
-    url: "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+    url: "https://giptv.cpolar.cn/nptv/zhejiang.m3u8?url=https://giptv.cpolar.cn",
   },
   {
     name: "湖南卫视",
-    url: "https://tv.aipan.me/stream/hnws.m3u8",
+    url: "https://giptv.cpolar.cn/nptv/hunan.m3u8?url=https://giptv.cpolar.cn",
   },
   {
     name: "天津卫视",
-    url: "https://tv.aipan.me/stream/tjws.m3u8",
+    url: "https://giptv.cpolar.cn/nptv/tianjing.m3u8?url=https://giptv.cpolar.cn",
   },
   {
     name: "深圳卫视",
-    url: "https://tv.aipan.me/stream/szws.m3u8",
+    url: "https://giptv.cpolar.cn/nptv/shenzheng.m3u8?url=https://giptv.cpolar.cn",
   },
   {
     name: "重庆卫视",
-    url: "https://tv.aipan.me/stream/cqws.m3u8",
+    url: "https://giptv.cpolar.cn/nptv/chongqing.m3u8?url=https://giptv.cpolar.cn",
   },
   {
     name: "江苏卫视",
-    url: "https://tv.aipan.me/stream/jsws.m3u8",
+    url: "https://giptv.cpolar.cn/nptv/jiangsu.m3u8?url=https://giptv.cpolar.cn",
   },
   {
     name: "山东卫视",
-    url: "https://tv.aipan.me/stream/sdws.m3u8",
+    url: "https://giptv.cpolar.cn/nptv/shandong.m3u8?url=https://giptv.cpolar.cn",
   },
   {
     name: "东方卫视",
-    url: "https://tv.aipan.me/stream/dfws.m3u8",
+    url: "https://giptv.cpolar.cn/nptv/dongfang.m3u8?url=https://giptv.cpolar.cn",
   },
   {
     name: "北京卫视",
-    url: "https://tv.aipan.me/stream/bjws.m3u8",
+    url: "https://giptv.cpolar.cn/nptv/beijing.m3u8?url=https://giptv.cpolar.cn",
   },
   {
     name: "广东卫视",
-    url: "https://tv.aipan.me/stream/gdws.m3u8",
+    url: "https://giptv.cpolar.cn/nptv/guangdong.m3u8?url=https://giptv.cpolar.cn",
   },
 ];
 
 export const gangtaiSources = [
   {
     name: "Now爆谷台",
-    url: "https://tv.aipan.me/stream/nowbaogu.m3u8",
+    url: "http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8",
   },
   {
     name: "VIUTV6",
-    url: "https://tv.aipan.me/stream/viutv6.m3u8",
+    url: "http://php.jdshipin.com:8880/xsj.php?id=viutv6",
   },
   {
     name: "TVBS",
-    url: "https://tv.aipan.me/stream/litv_4gtv-4gtv073.m3u8",
+    url: "https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8",
   },
   {
     name: "华视",
-    url: "https://tv.aipan.me/stream/litv_4gtv-4gtv041.m3u8",
+    url: "https://k44991.kylintv.tv/live/ctshd_iphone.m3u8",
   },
   {
     name: "民视",
-    url: "https://tv.aipan.me/stream/litv_4gtv-4gtv002.m3u8",
+    url: "http://198.16.100.186:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd",
   },
   {
     name: "NOWTV",
-    url: "https://tv.aipan.me/stream/nowtv.m3u8",
+    url: "https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8",
   },
   {
     name: "翡翠台",
-    url: "https://tv.aipan.me/stream/feicuitai.m3u8",
+    url: "http://php.jdshipin.com:8880/smt.php?id=jade_twn",
   },
   {
     name: "无线新闻台",
-    url: "https://tv.aipan.me/stream/wuxianxinwen.m3u8",
+    url: "http://php.jdshipin.com:8880/smt.php?id=inews_twn",
   },
   {
     name: "黄金翡翠",
-    url: "https://tv.aipan.me/stream/huangjinfeicui.m3u8",
+    url: "http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8",
   },
 ];
 export const guojiSources = [
   {
-    name: "爱奇艺",
-    url: "https://tv.aipan.me/stream/iqiyi.m3u8",
+    name: "CCTV4欧洲",
+    url: "https://giptv.cpolar.cn/mgtv/608807419.m3u8",
   },
   {
-    name: "8频道",
-    url: "https://tv.aipan.me/stream/xinjiapo8.m3u8",
+    name: "CCTV4美洲",
+    url: "https://giptv.cpolar.cn/mgtv/608807416.m3u8",
   },
   {
-    name: "U频道",
-    url: "https://tv.aipan.me/stream/upandao.m3u8",
+    name: "CGTN外语纪录",
+    url: "https://giptv.cpolar.cn/mgtv/609006487.m3u8",
   },
   {
-    name: "5频道",
-    url: "https://tv.aipan.me/stream/5pindao.m3u8",
+    name: "CGTN阿拉伯语",
+    url: "https://giptv.cpolar.cn/mgtv/609154345.m3u8",
   },
   {
-    name: "欢喜台",
-    url: "https://tv.aipan.me/stream/huanxitai.m3u8",
+    name: "CGTN法语",
+    url: "https://giptv.cpolar.cn/mgtv/609006450.m3u8",
   },
   {
-    name: "TVB",
-    url: "https://tv.aipan.me/stream/TVB_Jade.m3u8",
-  },
-  {
-    name: "Astro QJ",
-    url: "https://tv.aipan.me/stream/QJ.m3u8",
-  },
-  {
-    name: "AEC",
-    url: "https://tv.aipan.me/stream/AEC.m3u8",
-  },
-  {
-    name: "8度空间",
-    url: "https://tv.aipan.me/stream/8TV.m3u8",
-  },
-  {
-    name: "TV2",
-    url: "https://tv.aipan.me/stream/TV2.m3u8",
-  },
-  {
-    name: "新时代东",
-    url: "https://tv.aipan.me/stream/xinshidaidongbu.m3u8",
-  },
-  {
-    name: "新时代2台",
-    url: "https://tv.aipan.me/stream/xinshidai2.m3u8",
+    name: "CGTN俄语",
+    url: "https://giptv.cpolar.cn/mgtv/609006476.m3u8",
   },
 ];
 
 export const tiyuSources = [
   {
+    name: "五环传奇",
+    url: "https://giptv.cpolar.cn/mgtv/707671890.m3u8",
+  },
+  {
+    name: "赛事最经典",
+    url: "https://giptv.cpolar.cn/mgtv/646596895.m3u8",
+  },
+  {
+    name: "掼蛋精英赛",
+    url: "https://giptv.cpolar.cn/mgtv/631354620.m3u8",
+  },
+  {
+    name: "体坛名栏汇",
+    url: "https://giptv.cpolar.cn/mgtv/629943305.m3u8",
+  },
+  {
     name: "咪咕体育1",
-    url: "https://tv.aipan.me/stream/migu1.m3u8",
+    url: "https://giptv.cpolar.cn/itv/3000000001000005308.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
     name: "咪咕体育2",
-    url: "https://tv.aipan.me/stream/migu2.m3u8",
+    url: "https://giptv.cpolar.cn/itv/3000000001000005969.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
     name: "咪咕体育3",
-    url: "https://tv.aipan.me/stream/migu3.m3u8",
+    url: "https://giptv.cpolar.cn/itv/3000000001000007218.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
     name: "咪咕体育4",
-    url: "https://tv.aipan.me/stream/migu4.m3u8",
+    url: "https://giptv.cpolar.cn/itv/3000000001000008001.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
-    name: "Now Sports 1",
-    url: "https://tv.aipan.me/stream/nowsport1.m3u8",
+    name: "咪咕体育5",
+    url: "https://giptv.cpolar.cn/itv/3000000001000008176.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
-    name: "18台",
-    url: "https://tv.aipan.me/stream/18tai.m3u8",
+    name: "咪咕体育6",
+    url: "https://giptv.cpolar.cn/itv/3000000001000008379.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
-    name: "TVB J2",
-    url: "https://tv.aipan.me/stream/j2.m3u8",
+    name: "咪咕体育7",
+    url: "https://giptv.cpolar.cn/itv/3000000001000010129.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
-    name: "爱达尔体育1台",
-    url: "https://tv.aipan.me/stream/eltasport1.m3u8",
+    name: "咪咕体育8",
+    url: "https://giptv.cpolar.cn/itv/3000000001000010948.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
-    name: "爱达尔体育2台",
-    url: "https://tv.aipan.me/stream/eltasport2.m3u8",
+    name: "咪咕体育9",
+    url: "https://giptv.cpolar.cn/itv/3000000001000028638.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
-    name: "爱达尔体育3台",
-    url: "https://tv.aipan.me/stream/eltasport3.m3u8",
+    name: "咪咕体育10",
+    url: "https://giptv.cpolar.cn/itv/3000000001000031494.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
-    name: "CCTV-5体育",
-    url: "https://tv.aipan.me/stream/CCTV5.m3u8",
+    name: "咪咕体育11",
+    url: "https://giptv.cpolar.cn/itv/3000000010000005837.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
-    name: "CCTV-5+体育赛事",
-    url: "https://tv.aipan.me/stream/CCTV5P.m3u8",
+    name: "咪咕体育12",
+    url: "https://giptv.cpolar.cn/itv/3000000020000011518.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
-    name: "博斯运动1台",
-    url: "https://tv.aipan.me/stream/litv_litv-longturn07.m3u8",
+    name: "咪咕体育13",
+    url: "https://giptv.cpolar.cn/itv/3000000020000011519.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
-    name: "博斯运动2台",
-    url: "https://tv.aipan.me/stream/litv_litv-longturn08.m3u8",
+    name: "咪咕体育14",
+    url: "https://giptv.cpolar.cn/itv/3000000020000011520.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
   {
-    name: "博斯运动无限台",
-    url: "https://tv.aipan.me/stream/litv_litv-longturn10.m3u8",
-  },
-  {
-    name: "博斯运动无限2台",
-    url: "https://tv.aipan.me/stream/litv_litv-longturn13.m3u8",
-  },
-  {
-    name: "博斯运动网球台",
-    url: "https://tv.aipan.me/stream/litv_litv-longturn09.m3u8",
-  },
-  {
-    name: "博斯运动高球台",
-    url: "https://tv.aipan.me/stream/litv_litv-longturn05.m3u8",
-  },
-  {
-    name: "博斯运动高球2台",
-    url: "https://tv.aipan.me/stream/litv_litv-longturn06.m3u8",
-  },
-  {
-    name: "博斯运动魅力台",
-    url: "https://tv.aipan.me/stream/litv_litv-longturn04.m3u8",
+    name: "咪咕体育15",
+    url: "https://giptv.cpolar.cn/itv/3000000020000011521.m3u8?url=https://giptv.cpolar.cn&cdn=FifastbLive",
   },
 ];
+
+export const dySources = [
+  {
+    name: "新片放映厅",
+    url: "https://giptv.cpolar.cn/mgtv/617432318.m3u8",
+  },
+  {
+    name: "CHC影迷电影",
+    url: "https://giptv.cpolar.cn/mgtv/952383261.m3u8",
+  },
+  {
+    name: "CHC动作电影",
+    url: "https://giptv.cpolar.cn/mgtv/644368714.m3u8",
+  },
+  {
+    name: "CHC家庭影院",
+    url: "https://giptv.cpolar.cn/mgtv/644368373.m3u8",
+  },
+  {
+    name: "和美乡途轮播台",
+    url: "https://giptv.cpolar.cn/mgtv/713591450.m3u8",
+  },
+  {
+    name: "经高清大片典印度",
+    url: "https://giptv.cpolar.cn/mgtv/629943678.m3u8",
+  },
+  {
+    name: "南方影视",
+    url: "https://giptv.cpolar.cn/mgtv/614961829.m3u8",
+  },
+  {
+    name: "血色山河·抗日战争影像志",
+    url: "https://giptv.cpolar.cn/mgtv/713600957.m3u8",
+  }
+]
+
 export const sourcesAipan = [
   {
     label: "央视",
@@ -292,5 +312,9 @@ export const sourcesAipan = [
   {
     label: "体育",
     sources: tiyuSources,
+  },
+  {
+    label: "电影",
+    sources: dySources,
   },
 ];
